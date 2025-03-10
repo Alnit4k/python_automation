@@ -1,1 +1,1 @@
-# Simples exercicios para pratica de projetos com PyAutogui
+# Simple exercise to pratic automation with pyautogui
